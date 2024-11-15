@@ -14,7 +14,6 @@ Here's a beautifully structured and detailed `README.md` file for your **Excel R
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Running the Application](#running-the-application)
 
 ---
 
